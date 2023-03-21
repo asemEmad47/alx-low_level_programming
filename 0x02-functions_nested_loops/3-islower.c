@@ -3,7 +3,7 @@ Executable File  14 lines (13 sloc)  256 Bytes
 #include "main.h"
 
 /**
- * _islower - a function that checks for lowercase character
+ * _jislower - a function that checks for lowercase character
  * @c: single letter input
  * Return: 1 if int c is lowercase, 0 if otherwise
  */
