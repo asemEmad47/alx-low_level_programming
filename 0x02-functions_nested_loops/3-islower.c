@@ -1,11 +1,10 @@
-Executable File  14 lines (13 sloc)  256 Bytes
-
 #include "main.h"
 
 /**
- * _jislower - a function that checks for lowercase character
- * @c: single letter input
- * Return: 1 if int c is lowercase, 0 if otherwise
+ * _islower - Checks if a character is lowercase.
+ * @c: The character to be checked.
+ *
+ * Return: 1 if character is lowercase, 0 otherwise.
  */
 int _islower(int c)
 {
